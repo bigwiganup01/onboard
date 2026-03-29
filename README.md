@@ -1,5 +1,3 @@
-This `README.md` is designed specifically for your **Onboarding & KYC API**. It covers the architecture, setup instructions, and deployment workflow using your `host.sh` script.
-
 ---
 
 # 🚀 Onboarding & KYC Management System
