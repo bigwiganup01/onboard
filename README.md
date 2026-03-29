@@ -1,5 +1,3 @@
----
-
 # 🚀 Onboarding & KYC Management System
 
 A professional, tech-forward onboarding portal designed for **UNQ Spaces**. This system handles user registration, automated KYC data collection (Aadhaar/PAN), payment verification with receipt uploads, and real-time validation against an SQLite database.
@@ -109,3 +107,4 @@ The script will automatically configure **Nginx** as a reverse proxy and secure 
 
 ## 🤝 Contribution
 For changes to the branding or theme, refer to `brandconfig.json`. For logic changes, update `server.js` and restart the PM2 process.
+---
