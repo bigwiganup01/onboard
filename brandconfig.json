@@ -1,0 +1,12 @@
+{
+  "BrandName": "Lathansa Capital",
+  "Domain": "bigwigcorp.com",
+  "Currency": "USD",
+  "ColorTheme": {
+    "primary": "#1E3A8A",
+    "secondary": "#10B981",
+    "background": "#fefef4",
+    "formBG": "#f4fefe"
+  },
+  "FontFamily": "'Inter', sans-serif"
+}
